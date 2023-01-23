@@ -7,6 +7,8 @@
 <p>you can get and post and put and delete :</p>
 <p>customers , invoices </p> 
 <p>and you can post multiple invoices in one push</p>
+<p>you can fitler the data </p>
+
 
 <p>its has three token key :</p>
 <p>1-create update delete</p>
